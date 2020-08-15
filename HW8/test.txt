@@ -1,0 +1,23 @@
+22
+Calculus(b)(1)
+Calculus(b)(2),Calculus(b)(1)
+Statistics(I)(1)
+Statistics(I)(2),Statistics(I)(1)
+Advanced Accounting (1),Intermediate Accounting (2)
+Advanced Accounting (2),Advanced Accounting (1)
+Accounting Principles (1)
+Accounting Principles (2),Accounting Principles (1)
+Intermediate Accounting (1),Accounting Principles (2)
+Intermediate Accounting (2),Intermediate Accounting (1)
+Auditing (1),Intermediate Accounting (2)
+Auditing (2),Auditing (1)
+Principle of Economics(with recitation)(1)
+Principle of Economics(with recitation)(2),Principle of Economics(with recitation)(1)
+Cost and Managerial Accounting (1),Accounting Principles (2)
+Cost and Managerial Accounting (2),Cost and Managerial Accounting (1)
+Speical Topics on Intermediate Accouning,Intermediate Accounting (2)
+Accounting Information Systems,Accounting Principles (2)
+Business Management
+Outline of Civil Code(b)
+Commercial law,Outline of Civil Code(b)
+Tax Laws,Intermediate Accounting (2),Commercial law

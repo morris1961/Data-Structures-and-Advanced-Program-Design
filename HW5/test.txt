@@ -1,0 +1,27 @@
+a = list()
+a
+a.append(5)
+a.append(10)
+a.append(15)
+a.append(20)
+a.append(25)
+a
+a.insert(3,17)
+a.remove(20)
+a.append(15)
+a
+b = list()
+b.append(15)
+b.append(25)
+b.append(50)
+b.remove(17)
+b
+b.index(17)
+a.extend(b)
+a
+a.count(15)
+a.index(15)
+a.reverse()
+a
+a.sort()
+a
